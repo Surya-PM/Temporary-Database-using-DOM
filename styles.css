@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #cee5d0;
+}
+
+.span {
+  font-weight: lighter;
+  font-style: italic;
+}
+button {
+  background-color: #79a3b1;
+}
+table {
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+.margin {
+  margin: 3%;
+}
